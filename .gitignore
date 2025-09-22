@@ -1,0 +1,5 @@
+# Custom
+
+secrets/**
+keyfile.pem
+*.java
